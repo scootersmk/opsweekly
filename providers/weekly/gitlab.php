@@ -18,7 +18,7 @@
  *
  **/
 
-class ExampleHints {
+class GitlabHints {
     private $events_from, $events_to;
     private $username;
 
